@@ -31,3 +31,7 @@ The fine-tuning pipeline includes:
 - Evaluating the model using Accuracy and Macro-F1
 - Measuring average inference latency
 - Saving the trained model and tokenizer for later deployment
+
+### Part 2: Few-Shot LLM Prompting
+
+In the second part, I implemented a few-shot LLM-based sentiment classifier. Instead of fine-tuning the LLM, I used prompt engineering.
