@@ -38,5 +38,7 @@ In the second part, I implemented a few-shot LLM-based sentiment classifier. Ins
 
 From the fine-tuned distillBert, a streamlit app has been developed for the understanding of the general users.
 
-![![App Screenshot](Screenshot_2.png)
+[![App Screenshot](Screenshot_2.png)
+[![App Screenshot](Screenshot_3.png)
+[![App Screenshot](Screenshot_4.png)
 
