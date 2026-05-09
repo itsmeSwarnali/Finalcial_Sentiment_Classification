@@ -35,3 +35,8 @@ The fine-tuning pipeline includes:
 ### Part 2: Few-Shot LLM Prompting
 
 In the second part, I implemented a few-shot LLM-based sentiment classifier. Instead of fine-tuning the LLM, I used prompt engineering.
+
+From the fine-tuned distillBert, a streamlit app has been developed for the understanding of the general users.
+
+![![App Screenshot](Screenshot_2.png)
+
