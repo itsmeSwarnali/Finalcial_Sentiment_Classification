@@ -1,0 +1,11 @@
+{
+    "model": "distilbert-base-uncased",
+    "dataset": "zeroshot/twitter-financial-news-sentiment",
+    "seed": 42,
+    "eval_samples": 600,
+    "metrics": {
+        "accuracy": 0.8583333333333333,
+        "f1_macro": 0.8200096753288243
+    },
+    "latency_ms_per_sample": 2.1646380000000205
+}
